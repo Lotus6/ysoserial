@@ -1,5 +1,5 @@
 # ysoserial
-ysoserial 图形化，探测 gadget，命令执行，加载字节码，TomcatEcho 等
+ysoserial 图形化，探测 gadget，TomcatEcho，命令执行，冰蝎，哥斯拉内存马注入，加载字节码等
 * 添加了帆软 JacksonSignedObject 链
 * 添加了 su18 师傅文章里，所有 Transformer 链 org.mozilla.javascript.DefiningClassLoader defineClass 加载字节码的方式
 * 添加了 pen4uin 师傅内存马模块
