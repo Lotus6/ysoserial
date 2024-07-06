@@ -2,7 +2,7 @@
 ysoserial 图形化，探测 gadget，TomcatEcho，命令执行，冰蝎，哥斯拉内存马注入，加载字节码等
 * 添加了帆软 JacksonSignedObject 链
 * 添加了 su18 师傅文章里，所有 Transformer 链 org.mozilla.javascript.DefiningClassLoader defineClass 加载字节码的方式
-* 添加了 pen4uin 师傅内存马模块
+* 添加了 pen4uin 师傅 JMG 内存马模块
 * 集合 ysoserial-for-woodpecker 和 Y4er-ysoserial 的 poc
 * (如果对您有帮助，感觉不错的话，请您给个大大的 ⭐️❗️)
 <img width="786" alt="image" src="https://github.com/Lotus6/ysoserial/assets/63742814/d96c3003-f724-4346-8492-1bdd94e057cf">
@@ -20,3 +20,13 @@ ysoserial 图形化，探测 gadget，TomcatEcho，命令执行，冰蝎，哥�
 3. Encode
 
 "NORMAL","Base64", "Bin","GZIP+Base64"
+
+**参考**
+
+https://github.com/frohoff/ysoserial
+
+https://github.com/woodpecker-framework/ysoserial-for-woodpecker
+
+https://github.com/pen4uin/java-memshell-generator
+
+https://github.com/Y4er/ysoserial
