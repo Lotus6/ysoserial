@@ -2,6 +2,11 @@
 ysoserial 图形化，探测 gadget，TomcatEcho，命令执行，冰蝎，哥斯拉内存马注入，加载字节码等
 * (如果对您有帮助，感觉不错的话，请您给个大大的 ⭐️❗️)
 
+**V1.2版本**
+新增供 fastjson c3p0 二次反序列化 Hex POC 编码生成
+新增 Groovy2 链
+![image](https://github.com/user-attachments/assets/3478d625-51ac-4693-8587-6512cf2e2861)
+
 
 **V1.1版本**
 * 新增 Xstream 编码，直接 Xstream 生成反序列化炸弹，gadget 等
